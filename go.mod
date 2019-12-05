@@ -1,4 +1,4 @@
-module github.com/montexristos/martian/v1
+module github.com/montexristos/martian
 
 go 1.13
 
